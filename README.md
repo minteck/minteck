@@ -17,7 +17,11 @@ Hello 👋, I'm a French developer 💻, system administrator 🔌, and also a f
 <hr>
 
 ![Contact Me](https://user-images.githubusercontent.com/46352972/116480673-0cdda800-a882-11eb-84fd-64e808fa77b0.png)
-> Soon
+* [📩 Email](mailto:nekostarfan@gmail.com)
+* [🐦 Twitter](https://twitter.com/_Minteck)
+* [🔔 Reddit](https://reddit.com/user/Minteck)
+* [📹 YouTube](https://www.youtube.com/channel/UCfjxe9cs-ovoP1rBVwdMq0Q)
+* [🎶 Spotify](https://open.spotify.com/user/6d7k4vmups3jm5hfimr86nkhb)
 
 <hr>
 
@@ -26,4 +30,6 @@ Hello 👋, I'm a French developer 💻, system administrator 🔌, and also a f
 * [Horizon](https://github.com/Minteck-Projects/Horizon) (2019-2020)
 * [Game Launcher](https://github.com/Minteck-Projects/Game-Launcher) (2020)
 * [Future Desktop](https://github.com/Minteck-Projects/Future-Desktop) (2020)
-* [Winbuntu](https://github.com/Minteck-Projects/Winbuntu)
+* [CamIndicator](https://github.com/Minteck-Projects/CamIndicator) (2019-2021)
+* [WebSpace](https://github.com/Minteck-Projects/WebSpace-Desktop) (2019-2020)
+* [Project powerOS](https://github.com/Minteck-Projects/WebSpace-Desktop) (2021)
