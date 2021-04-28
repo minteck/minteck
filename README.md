@@ -33,3 +33,9 @@ Hello 👋, I'm a French developer 💻, system administrator 🔌, and also a f
 * [CamIndicator](https://github.com/Minteck-Projects/CamIndicator) (2019-2021)
 * [WebSpace](https://github.com/Minteck-Projects/WebSpace-Desktop) (2019-2020)
 * [Project powerOS](https://github.com/Minteck-Projects/WebSpace-Desktop) (2021)
+
+<hr>
+
+I use software from <br>
+![JetBrains](https://user-images.githubusercontent.com/46352972/116481827-44e5ea80-a884-11eb-9925-67ea1de9b2e1.png) <br>
+*(thanks for the license)*
