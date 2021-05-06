@@ -46,7 +46,7 @@
 * [Future Desktop](https://github.com/Minteck-Projects/Future-Desktop) (2020)
 * [CamIndicator](https://github.com/Minteck-Projects/CamIndicator) (2019-2021)
 * [WebSpace](https://github.com/Minteck-Projects/WebSpace-Desktop) (2019-2020)
-* [Project powerOS](https://github.com/Minteck-Projects/WebSpace-Desktop) (2021)
+* [Project powerOS](https://github.com/Minteck/powerOS) (2021)
 
 <hr>
 
