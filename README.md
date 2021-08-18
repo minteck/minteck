@@ -3,6 +3,8 @@
   Hello 👋, I'm a French developer 💻, system administrator 🔌, and also a furry 🦊 who loves space 🌠.
 </p>
 
+> This projects list is out of date, I'll update when I'll have time.
+
 <hr>
 
 <p align="center">
