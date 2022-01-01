@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46352972/116479393-d9018300-a87f-11eb-80bd-7e0b33327e0b.jpg"><br>
-  Hello 👋, I'm a French developer 💻, system administrator 🔌, and also a brony 🦄 who loves space 🌠.
+  Hello 👋, I'm a French developer 💻, system administrator 🔌, and also a pegasister 🦄 who loves space 🌠.
 </p>
 
 > This projects list is out of date, I'll update when I'll have time.
