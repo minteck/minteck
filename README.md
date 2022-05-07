@@ -1,4 +1,4 @@
-<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-07T15:14:01.895Z -->
+<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-07T16:33:25.960Z -->
  # My source code is not there anymore
  
  Since August 2021, I moved to self-hosted code hosting. My projects are now hosted here:
@@ -19,16 +19,16 @@ Me | [minteck/minteck](https://gitlab.minteck.org/minteck/minteck)
 Ponyfind | [minteck/ponyfind](https://gitlab.minteck.org/minteck/ponyfind)
 Argon Transcoding Engine | [minteck/argon-transcode](https://gitlab.minteck.org/minteck/argon-transcode)
 Voicer | [minteck/voicer](https://gitlab.minteck.org/minteck/voicer)
-AutoDocs | [minteck/autodocs](https://gitlab.minteck.org/minteck/autodocs)
 r-Place archive | [minteck/placearchive](https://gitlab.minteck.org/minteck/placearchive)
 Argon | [minteck/argon](https://gitlab.minteck.org/minteck/argon)
-Snowjail | [minteck/snowjail](https://gitlab.minteck.org/minteck/snowjail)
 Alicorn Desktop | [minteck/alicorn](https://gitlab.minteck.org/minteck/alicorn)
 Argon 3pAD | [minteck/argon-3pad](https://gitlab.minteck.org/minteck/argon-3pad)
 Cobalt | [minteck/cobalt](https://gitlab.minteck.org/minteck/cobalt)
 pony.minteck.org | [minteck/pony](https://gitlab.minteck.org/minteck/pony)
 *Twilight* | *[minteck/twilight](https://gitlab.minteck.org/minteck/twilight)*
 *Twilight Setup Utility* | *[minteck/twilight-setup](https://gitlab.minteck.org/minteck/twilight-setup)*
+*AutoDocs* | *[minteck/autodocs](https://gitlab.minteck.org/minteck/autodocs)*
+*Snowjail* | *[minteck/snowjail](https://gitlab.minteck.org/minteck/snowjail)*
 *YouToo* | *[minteck/youtoo](https://gitlab.minteck.org/minteck/youtoo)*
 *WolfEye Frontend* | *[minteck/wolfeye-js](https://gitlab.minteck.org/minteck/wolfeye-js)*
 *Argon Delivery Server* | *[minteck/argon-cdn](https://gitlab.minteck.org/minteck/argon-cdn)*
