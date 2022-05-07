@@ -1,4 +1,4 @@
-<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-07T13:00:55.587Z -->
+<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-07T13:30:09.299Z -->
  # My source code is not there anymore
  
  Since August 2021, I moved to self-hosted code hosting. My projects are now hosted here:
@@ -10,9 +10,9 @@ This list is updated from the [projects I created](https://gitlab.minteck.org/us
 Name | GitLab URL
 ---|---
 Ember - Website v10 | [minteck/ember](https://gitlab.minteck.org/minteck/ember)
+Foxperson | [minteck/foxperson](https://gitlab.minteck.org/minteck/foxperson)
 Website for the Cloudburst System | [minteck/cloudsdale](https://gitlab.minteck.org/minteck/cloudsdale)
 Neutron | [minteck/neutron](https://gitlab.minteck.org/minteck/neutron)
-Foxperson | [minteck/foxperson](https://gitlab.minteck.org/minteck/foxperson)
 Rainbow - Website v9 | [minteck/rainbow](https://gitlab.minteck.org/minteck/rainbow)
 Me | [minteck/minteck](https://gitlab.minteck.org/minteck/minteck)
 Ponyfind | [minteck/ponyfind](https://gitlab.minteck.org/minteck/ponyfind)
@@ -22,7 +22,7 @@ AutoDocs | [minteck/autodocs](https://gitlab.minteck.org/minteck/autodocs)
 r-Place archive | [minteck/placearchive](https://gitlab.minteck.org/minteck/placearchive)
 Argon | [minteck/argon](https://gitlab.minteck.org/minteck/argon)
 Snowjail | [minteck/snowjail](https://gitlab.minteck.org/minteck/snowjail)
-Alicorn Operating System | [minteck/alicorn](https://gitlab.minteck.org/minteck/alicorn)
+Alicorn Desktop | [minteck/alicorn](https://gitlab.minteck.org/minteck/alicorn)
 Argon 3pAD | [minteck/argon-3pad](https://gitlab.minteck.org/minteck/argon-3pad)
 Cobalt | [minteck/cobalt](https://gitlab.minteck.org/minteck/cobalt)
 pony.minteck.org | [minteck/pony](https://gitlab.minteck.org/minteck/pony)
