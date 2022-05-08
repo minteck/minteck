@@ -1,4 +1,4 @@
-<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-08T10:00:52.288Z -->
+<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-08T10:30:43.453Z -->
  # My source code is not there anymore
  
  Since August 2021, I moved to self-hosted code hosting. My projects are now hosted here:
@@ -9,6 +9,7 @@ This list is updated from the [projects I created](https://gitlab.minteck.org/us
 
 Name | GitLab URL
 ---|---
+Argon | [minteck/argon](https://gitlab.minteck.org/minteck/argon)
 Ember - Website v10 | [minteck/ember](https://gitlab.minteck.org/minteck/ember)
 Minteck Arcade | [minteck/arcade](https://gitlab.minteck.org/minteck/arcade)
 Neutron | [minteck/neutron](https://gitlab.minteck.org/minteck/neutron)
@@ -20,7 +21,6 @@ Ponyfind | [minteck/ponyfind](https://gitlab.minteck.org/minteck/ponyfind)
 Argon Transcoding Engine | [minteck/argon-transcode](https://gitlab.minteck.org/minteck/argon-transcode)
 Voicer | [minteck/voicer](https://gitlab.minteck.org/minteck/voicer)
 r-Place archive | [minteck/placearchive](https://gitlab.minteck.org/minteck/placearchive)
-Argon | [minteck/argon](https://gitlab.minteck.org/minteck/argon)
 Alicorn Desktop | [minteck/alicorn](https://gitlab.minteck.org/minteck/alicorn)
 Argon 3pAD | [minteck/argon-3pad](https://gitlab.minteck.org/minteck/argon-3pad)
 Cobalt | [minteck/cobalt](https://gitlab.minteck.org/minteck/cobalt)
