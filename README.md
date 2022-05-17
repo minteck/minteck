@@ -1,4 +1,4 @@
-<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-17T10:30:35.939Z -->
+<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-17T11:00:48.529Z -->
  # My source code is not there anymore
  
  Since August 2021, I moved to self-hosted code hosting. My projects are now hosted here:
@@ -9,9 +9,7 @@ This list is updated from the [projects I created](https://gitlab.minteck.org/us
 
 Name | GitLab URL
 ---|---
-DJ Pon-3 | [minteck/dj-pon-3](https://gitlab.minteck.org/minteck/dj-pon-3)
 Ember - Website v10 | [minteck/ember](https://gitlab.minteck.org/minteck/ember)
-Project Vapor Trail | [minteck/vaportrail](https://gitlab.minteck.org/minteck/vaportrail)
 Website for the Cloudburst System | [minteck/cloudsdale](https://gitlab.minteck.org/minteck/cloudsdale)
 Minteck Arcade | [minteck/arcade](https://gitlab.minteck.org/minteck/arcade)
 Foxperson | [minteck/foxperson](https://gitlab.minteck.org/minteck/foxperson)
@@ -27,6 +25,8 @@ Alicorn Desktop | [minteck/alicorn](https://gitlab.minteck.org/minteck/alicorn)
 Argon 3pAD | [minteck/argon-3pad](https://gitlab.minteck.org/minteck/argon-3pad)
 Cobalt | [minteck/cobalt](https://gitlab.minteck.org/minteck/cobalt)
 pony.minteck.org | [minteck/pony](https://gitlab.minteck.org/minteck/pony)
+*Project Vapor Trail* | *[minteck/vaportrail](https://gitlab.minteck.org/minteck/vaportrail)*
+*DJ Pon-3* | *[minteck/dj-pon-3](https://gitlab.minteck.org/minteck/dj-pon-3)*
 *Twilight* | *[minteck/twilight](https://gitlab.minteck.org/minteck/twilight)*
 *Twilight Setup Utility* | *[minteck/twilight-setup](https://gitlab.minteck.org/minteck/twilight-setup)*
 *Ponyfind* | *[minteck/ponyfind](https://gitlab.minteck.org/minteck/ponyfind)*
