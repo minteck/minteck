@@ -1,4 +1,4 @@
-<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-19T18:30:46.073Z -->
+<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-05-19T19:01:11.233Z -->
  # My source code is not there anymore
  
  Since August 2021, I moved to self-hosted code hosting. My projects are now hosted here:
@@ -9,10 +9,10 @@ This list is updated from the [projects I created](https://gitlab.minteck.org/us
 
 Name | GitLab URL
 ---|---
+Foxperson | [minteck/foxperson](https://gitlab.minteck.org/minteck/foxperson)
 Minteck Arcade | [minteck/arcade](https://gitlab.minteck.org/minteck/arcade)
 Ember - Website v10 | [minteck/ember](https://gitlab.minteck.org/minteck/ember)
 Website for the Cloudburst System | [minteck/cloudsdale](https://gitlab.minteck.org/minteck/cloudsdale)
-Foxperson | [minteck/foxperson](https://gitlab.minteck.org/minteck/foxperson)
 Download Center | [minteck/downloadcenter](https://gitlab.minteck.org/minteck/downloadcenter)
 Argon | [minteck/argon](https://gitlab.minteck.org/minteck/argon)
 Neutron | [minteck/neutron](https://gitlab.minteck.org/minteck/neutron)
