@@ -1,4 +1,4 @@
-<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-06-10T08:00:40.281Z -->
+<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-06-10T08:30:53.713Z -->
  # My source code is not there anymore
  
  Since August 2021, I moved to self-hosted code hosting. My projects are now hosted here:
@@ -9,6 +9,7 @@ This list is updated from the [projects I created](https://gitlab.minteck.org/us
 
 Name | GitLab URL
 ---|---
+YouToo.kt | [minteck/youtoo-kt](https://gitlab.minteck.org/minteck/youtoo-kt)
 Foxperson | [minteck/foxperson](https://gitlab.minteck.org/minteck/foxperson)
 Neutron | [minteck/neutron](https://gitlab.minteck.org/minteck/neutron)
 Multisocial | [minteck/multisocial](https://gitlab.minteck.org/minteck/multisocial)
