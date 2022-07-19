@@ -1,4 +1,4 @@
-<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-07-19T19:00:34.093Z -->
+<!-- WARNING: Do not modify this file, modify README.mdt instead. This file will get overwritten whenever the project fetcher runs. Publish date: 2022-07-19T19:30:43.634Z -->
  # My source code is not there anymore
  
  Since August 2021, I moved to self-hosted code hosting. My projects are now hosted here:
@@ -9,6 +9,7 @@ This list is updated from the [projects I created](https://gitlab.minteck.org/us
 
 Name | GitLab URL
 ---|---
+Argon | [minteck/argon](https://gitlab.minteck.org/minteck/argon)
 Neutron | [minteck/neutron](https://gitlab.minteck.org/minteck/neutron)
 equestria.dev-status-frontend | [minteck/equestria.dev-status-frontend](https://gitlab.minteck.org/minteck/equestria.dev-status-frontend)
 Rainbow - Website v9 | [minteck/rainbow](https://gitlab.minteck.org/minteck/rainbow)
@@ -19,7 +20,6 @@ Multisocial | [minteck/multisocial](https://gitlab.minteck.org/minteck/multisoci
 Minteck Arcade | [minteck/arcade](https://gitlab.minteck.org/minteck/arcade)
 Website for the Cloudburst System | [minteck/cloudsdale](https://gitlab.minteck.org/minteck/cloudsdale)
 Download Center | [minteck/downloadcenter](https://gitlab.minteck.org/minteck/downloadcenter)
-Argon | [minteck/argon](https://gitlab.minteck.org/minteck/argon)
 Me | [minteck/minteck](https://gitlab.minteck.org/minteck/minteck)
 Argon Transcoding Engine | [minteck/argon-transcode](https://gitlab.minteck.org/minteck/argon-transcode)
 Voicer | [minteck/voicer](https://gitlab.minteck.org/minteck/voicer)
